@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-  background: #1D1E22;
+  background: #1f1e1b;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -43,9 +43,9 @@ body {
   align-items: center;
   width: 180px;
   height: 180px;
-  background: conic-gradient(from 0deg at 50% 50%, rgb(224, 134, 31) 0%, rgb(247, 139, 37) 0%, #101012 0%);
+  background: conic-gradient(from 0deg at 50% 50%, rgb(224, 134, 31) 0%, rgb(247, 139, 37) 0%, #21216e 0%);
   border-radius: 100px;
-  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.75), -4px -4px 16px rgba(255, 255, 255, 0.1);
+  box-shadow: 6px 6px 16px rgba(114, 11, 11, 0.75), -4px -4px 16px rgba(240, 181, 19, 0.781);
   animation: spin 1s infinite linear;
 }
 
